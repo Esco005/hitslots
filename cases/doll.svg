@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160" width="120" height="160">
+  <!-- Кейс «Матрёшка»: тёплый силуэт -->
+  <!-- силуэт куклы -->
+  <path d="M60 26 C74 26 80 38 80 52 C80 70 88 92 88 116 C88 138 76 150 60 150 C44 150 32 138 32 116 C32 92 40 70 40 52 C40 38 46 26 60 26 Z" fill="#B5486F" stroke="#E88BB0" stroke-width="2"/>
+  <!-- лицо -->
+  <ellipse cx="60" cy="56" rx="16" ry="14" fill="#E0B088"/>
+  <!-- платок на «шее» -->
+  <path d="M44 64 Q60 74 76 64 L72 80 Q60 88 48 80 Z" fill="#7E2F52"/>
+  <!-- волосы -->
+  <path d="M45 52 C45 38 50 30 60 30 C70 30 75 38 75 52 C72 44 68 40 60 40 C52 40 48 44 45 52 Z" fill="#8A5A2B"/>
+  <!-- глаза и щёки -->
+  <circle cx="54" cy="56" r="2.5" fill="#0E1116"/>
+  <circle cx="66" cy="56" r="2.5" fill="#0E1116"/>
+  <circle cx="50" cy="62" r="3" fill="#E88BB0"/>
+  <circle cx="70" cy="62" r="3" fill="#E88BB0"/>
+  <!-- цветок на фартуке -->
+  <g fill="#F2B94B">
+    <ellipse cx="60" cy="108" rx="7" ry="9" fill="#E88BB0"/>
+    <circle cx="60" cy="108" r="5" fill="#F2B94B"/>
+    <ellipse cx="52" cy="102" rx="4" ry="6" fill="#E88BB0" transform="rotate(-30 52 102)"/>
+    <ellipse cx="68" cy="102" rx="4" ry="6" fill="#E88BB0" transform="rotate(30 68 102)"/>
+  </g>
+  <!-- блик -->
+  <path d="M44 40 C44 34 48 30 52 30" fill="none" stroke="#E88BB0" stroke-width="2.5" stroke-linecap="round" opacity=".6"/>
+</svg>

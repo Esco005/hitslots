@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160" width="120" height="160">
+  <!-- Кейс «Бородач»: графит с латунным ключом-гербом -->
+  <!-- ручка -->
+  <path d="M44 26 Q60 8 76 26" fill="none" stroke="#F2B94B" stroke-width="4" stroke-linecap="round"/>
+  <!-- корпус -->
+  <rect x="16" y="26" width="88" height="106" rx="8" fill="#232A33" stroke="#F2B94B" stroke-width="2"/>
+  <!-- вертикальные швы -->
+  <path d="M44 30 V128 M76 30 V128" stroke="#161B22" stroke-width="2"/>
+  <!-- заклёпки -->
+  <circle cx="28" cy="38" r="3" fill="#F2B94B"/>
+  <circle cx="92" cy="38" r="3" fill="#F2B94B"/>
+  <circle cx="28" cy="120" r="3" fill="#F2B94B"/>
+  <circle cx="92" cy="120" r="3" fill="#F2B94B"/>
+  <!-- ключ-герб -->
+  <g fill="#F2B94B">
+    <circle cx="60" cy="74" r="10" fill="none" stroke="#F2B94B" stroke-width="3.5"/>
+    <rect x="57" y="84" width="6" height="28" rx="3"/>
+    <rect x="62" y="98" width="9" height="5" rx="2"/>
+    <rect x="62" y="106" width="7" height="5" rx="2"/>
+    <circle cx="60" cy="74" r="3" fill="#232A33"/>
+  </g>
+  <!-- ножки -->
+  <rect x="24" y="132" width="14" height="8" rx="3" fill="#161B22"/>
+  <rect x="82" y="132" width="14" height="8" rx="3" fill="#161B22"/>
+</svg>
